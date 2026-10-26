@@ -10,7 +10,7 @@
 
   <p align="center">
     <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-    <a href="https://github.com/ishandutta2007/Awesome-Request-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Request-Management?style=flat-square&logo=github&color=38bdf8" alt="GitHub Stars"/></a>
+    <a href="https://github.com/ishandutta2007/Awesome-Request-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Request-Management?style=flat-square&logo=github&color=38bdf8" alt="GitHub_Stars"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Request-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Request-Management?style=flat-square&logo=github&color=818cf8" alt="GitHub Forks"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Request-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Request-Management?style=flat-square&color=c084fc" alt="License"/></a>
     <a href="https://github.com/ishandutta2007/Awesome-Request-Management/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
@@ -74,7 +74,7 @@ The table below catalogs top commercial platforms, sorted by **Company Size (Val
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Self-hosted open-source stacks enable organizations to retain total data sovereignty, audit compliance, and eliminate per-agent recurring licensing fees. Repositories are ranked below in **descending order of GitHub star count**:
+Self-hosted open-source stacks enable organizations to retain total data sovereignty, audit compliance, and eliminate per-agent recurring licensing fees. Repositories are ranked below in **descending order of GitHub Stars_Count**:
 
 - **[Chatwoot](https://github.com/chatwoot/chatwoot)** <a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="Chatwoot Stars"/></a>  
   💬 Open-source customer engagement platform and ticketing system providing omni-channel customer request fulfillment, automation workflows, live chat widgets, and conversational bot integration. (Ruby/Vue.js · MIT)
